@@ -11,7 +11,8 @@ while True:
         result = num_1
     elif num_2 > num_1:
         result = num_2
+        print(f"The higher value is: {result}")
     else:
         print("The numbers are equal.")
 
-    print(f"The higher value is: {result}")
+
