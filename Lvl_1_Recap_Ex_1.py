@@ -15,4 +15,3 @@ while True:
     else:
         print("The numbers are equal.")
 
-
